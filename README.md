@@ -1,17 +1,3 @@
-CTF-Katana
-===============
-
-> John Hammond | February 1st, 2018
-
---------------------------
-
-
-This repository, at the time of writing, will just host a listing of tools and commands that may help with CTF challenges. I hope to keep it as a "live document," and ideally it will not die out like the old "tools" page I had made ([https://github.com/USCGA/tools](https://github.com/USCGA/tools)).
-
-**The formal tool that automates some of this low-hanging fruit checking is
-finally released. Katana is available at [https://github.com/JohnHammond/katana](https://github.com/JohnHammond/katana).** Pull-requests and contributions
-are welcome!
-
 ---------------
 # Table of Contents
 
